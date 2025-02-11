@@ -26,21 +26,24 @@
             const weekContent = document.getElementById("weekContent");
             const days = Object.keys(treinoData);
             const todayIndex = new Date().getDay() - 1;
-            
+
             days.forEach((day, index) => {
                 const activeClass = index === todayIndex ? "active" : "";
                 weekTabs.innerHTML += `<li class="nav-item">
                     <a class="nav-link ${activeClass}" id="tab-${index}" data-bs-toggle="tab" href="#content-${index}">${day}</a>
                 </li>`;
-                
-                let exercises = treinoData[day].map(ex => `
+
+                let exercises = treinoData[day].map((ex, exIndex) => `
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading${ex.nome.replace(/\s/g, '')}">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse${ex.nome.replace(/\s/g, '')}">
+                            <button class="accordion-button ${exIndex === 0 ? '' : 'collapsed'}" 
+                                type="button" data-bs-toggle="collapse" 
+                                data-bs-target="#collapse${ex.nome.replace(/\s/g, '')}">
                                 ${ex.nome}
                             </button>
                         </h2>
-                        <div id="collapse${ex.nome.replace(/\s/g, '')}" class="accordion-collapse collapse">
+                        <div id="collapse${ex.nome.replace(/\s/g, '')}" class="accordion-collapse collapse ${exIndex === 0 ? 'show' : ''}" 
+                            data-bs-parent="#accordion${index}">
                             <div class="accordion-body">
                                 <strong>Séries:</strong> ${ex.series} <br>
                                 <strong>Repetições:</strong> ${ex.repeticoes} <br>
@@ -49,7 +52,7 @@
                         </div>
                     </div>
                 `).join('');
-                
+
                 weekContent.innerHTML += `<div class="tab-pane fade show ${activeClass}" id="content-${index}">
                     <div class="accordion" id="accordion${index}">
                         ${exercises}
