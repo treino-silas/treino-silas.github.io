@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treino Semanal</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js');
+        }
+    </script>
+</head>
+<body>
+    <div class="container mt-4">
+        <h2 class="text-center">Treino da Semana</h2>
+        <ul class="nav nav-tabs" id="weekTabs"></ul>
+        <div class="tab-content mt-3" id="weekContent"></div>
+    </div>
+    
+    <script>
+        async function loadTreino() {
+            const response = await fetch('treino.json');
+            const treinoData = await response.json();
+            const weekTabs = document.getElementById("weekTabs");
+            const weekContent = document.getElementById("weekContent");
+            const days = Object.keys(treinoData);
+            const todayIndex = new Date().getDay() - 1;
+            
+            days.forEach((day, index) => {
+                const activeClass = index === todayIndex ? "active" : "";
+                weekTabs.innerHTML += `<li class="nav-item">
+                    <a class="nav-link ${activeClass}" id="tab-${index}" data-bs-toggle="tab" href="#content-${index}">${day}</a>
+                </li>`;
+                
+                let exercises = treinoData[day].map(ex => `
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading${ex.nome.replace(/\s/g, '')}">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse${ex.nome.replace(/\s/g, '')}">
+                                ${ex.nome}
+                            </button>
+                        </h2>
+                        <div id="collapse${ex.nome.replace(/\s/g, '')}" class="accordion-collapse collapse">
+                            <div class="accordion-body">
+                                <strong>Séries:</strong> ${ex.series} <br>
+                                <strong>Repetições:</strong> ${ex.repeticoes} <br>
+                                <strong>Descanso:</strong> ${ex.descanso}
+                            </div>
+                        </div>
+                    </div>
+                `).join('');
+                
+                weekContent.innerHTML += `<div class="tab-pane fade show ${activeClass}" id="content-${index}">
+                    <div class="accordion" id="accordion${index}">
+                        ${exercises}
+                    </div>
+                </div>`;
+            });
+        }
+        document.addEventListener("DOMContentLoaded", loadTreino);
+    </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
