@@ -1,0 +1,52 @@
+{
+    "Segunda-feira": [
+        { "nome": "Supino reto com halteres", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s" },
+        { "nome": "Desenvolvimento com halteres", "series": "3x", "repeticoes": "8-12", "descanso": "60s" },
+        { "nome": "Elevação lateral", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Tríceps francês com halter", "series": "3x", "repeticoes": "10-12", "descanso": "60s" },
+        { "nome": "Paralelas ou supino fechado", "series": "3x", "repeticoes": "8-12", "descanso": "60s" }
+    ],
+    "Terça-feira": [
+        { "nome": "Puxada alta na polia", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s" },
+        { "nome": "Remada curvada com halteres ou barra", "series": "3x", "repeticoes": "8-12", "descanso": "60s" },
+        { "nome": "Pulldown na polia", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Rosca direta com halteres ou barra EZ", "series": "3x", "repeticoes": "10-12", "descanso": "60s" },
+        { "nome": "Rosca martelo", "series": "3x", "repeticoes": "10-12", "descanso": "60s" }
+    ],
+    "Quarta-feira": [
+        { "nome": "Agachamento livre ou no Smith", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s" },
+        { "nome": "Leg press 45°", "series": "3x", "repeticoes": "10-12", "descanso": "60s" },
+        { "nome": "Cadeira extensora", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Mesa flexora", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Panturrilha no leg press ou em pé", "series": "4x", "repeticoes": "15-20", "descanso": "60s" },
+        { "nome": "Abdominal infra na barra ou banco declinado", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Prancha abdominal", "series": "3x", "repeticoes": "30-60s", "descanso": "60s" }
+    ],
+    "Quinta-feira": [
+        { "nome": "Supino inclinado com halteres", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s" },
+        { "nome": "Desenvolvimento Arnold", "series": "3x", "repeticoes": "8-12", "descanso": "60s" },
+        { "nome": "Crucifixo com halteres", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Tríceps corda na polia", "series": "3x", "repeticoes": "10-12", "descanso": "60s" },
+        { "nome": "Mergulho em banco (tríceps)", "series": "3x", "repeticoes": "10-12", "descanso": "60s" }
+    ],
+    "Sexta-feira": [
+        { "nome": "Barra fixa ou puxada na polia", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s" },
+        { "nome": "Remada unilateral com halteres", "series": "3x", "repeticoes": "8-12", "descanso": "60s" },
+        { "nome": "Pullover com halteres", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Rosca alternada com halteres", "series": "3x", "repeticoes": "10-12", "descanso": "60s" },
+        { "nome": "Rosca concentrada", "series": "3x", "repeticoes": "10-12", "descanso": "60s" },
+        { "nome": "Abdominal na polia", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Prancha lateral", "series": "3x", "repeticoes": "30-45s", "descanso": "60s" }
+    ],
+    "Sábado": [
+        { "nome": "Agachamento búlgaro", "series": "3x", "repeticoes": "10-12", "descanso": "60s" },
+        { "nome": "Afundo com halteres", "series": "3x", "repeticoes": "10-12", "descanso": "60s" },
+        { "nome": "Cadeira flexora", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Panturrilha sentada", "series": "4x", "repeticoes": "15-20", "descanso": "60s" },
+        { "nome": "Abdominal na bola suíça", "series": "3x", "repeticoes": "12-15", "descanso": "60s" },
+        { "nome": "Elevação de pernas suspenso", "series": "3x", "repeticoes": "12-15", "descanso": "60s" }
+    ],
+    "Domingo": [
+        { "nome": "Descanso/Recuperação Ativa", "series": "Opcional", "repeticoes": "Caminhada, alongamento ou mobilidade", "descanso": "Livre" }
+    ]
+}
