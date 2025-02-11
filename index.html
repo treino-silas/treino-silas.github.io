@@ -20,6 +20,9 @@
     
     <script>
         async function loadTreino() {
+
+            console.log('test');
+
             const response = await fetch('treino.json');
             const treinoData = await response.json();
             const weekTabs = document.getElementById("weekTabs");
@@ -28,6 +31,9 @@
             const todayIndex = new Date().getDay() - 1;
 
             days.forEach((day, index) => {
+
+                
+
                 const activeClass = index === todayIndex ? "active" : "";
                 const groupMuscle = treinoData[day].grupo_muscular;
 
@@ -35,12 +41,7 @@
                     <a class="nav-link ${activeClass}" id="tab-${index}" data-bs-toggle="tab" href="#content-${index}">${day}</a>
                 </li>`;
 
-                let exercises = treinoData[day].exercicios.map((ex, exIndex) => {
-                    const videoEmbed = ex.video ? 
-                        `<div class="ratio ratio-16x9">
-                            <iframe src="${ex.video}" allowfullscreen></iframe>
-                        </div>` : '';
-
+                let exercises = treinoData[day].map((ex, exIndex) => {
                     return `<div class="accordion-item">
                         <h2 class="accordion-header" id="heading${ex.nome.replace(/\s/g, '')}">
                             <button class="accordion-button ${exIndex === 0 ? '' : 'collapsed'}" 
@@ -49,19 +50,35 @@
                                 ${ex.nome}
                             </button>
                         </h2>
-                        <div id="collapse${ex.nome.replace(/\s/g, '')}" class="accordion-collapse collapse ${exIndex === 0 ? 'show' : ''}" 
-                            data-bs-parent="#accordion${index}">
+                        <div id="collapse${ex.nome.replace(/\s/g, '')}" 
+                            class="accordion-collapse collapse ${exIndex === 0 ? 'show' : ''}" 
+                            data-bs-parent="#accordion${index}"
+                            data-video-content="${ex.video}">
                             <div class="accordion-body">
                                 <strong>Séries:</strong> ${ex.series} <br>
                                 <strong>Repetições:</strong> ${ex.repeticoes} <br>
                                 <strong>Descanso:</strong> <span id="timer-${index}-${exIndex}">${ex.descanso}</span> segundos
-                                <button class="btn btn-sm btn-primary" onclick="startTimer(${index}, ${exIndex}, ${ex.descanso})">▶</button>
-                                <button class="btn btn-sm btn-danger" onclick="resetTimer(${index}, ${exIndex}, ${ex.descanso})">⏹</button>
-                                ${videoEmbed}
+                                <button class="btn btn-sm btn-primary" onclick="startTimer(${index}, ${exIndex}, ${ex.descanso})">Play</button>
+                                <button class="btn btn-sm btn-danger" onclick="resetTimer(${index}, ${exIndex}, ${ex.descanso})">Reset</button>
+                                <div class="video-container"></div>
                             </div>
                         </div>
                     </div>`;
                 }).join('');
+
+                // Adicionar após o código existente
+                document.addEventListener('shown.bs.collapse', function (event) {
+                    const element = event.target;
+                    const videoContent = element.getAttribute('data-video-content');
+                    const videoContainer = element.querySelector('.video-container');
+                    
+                    if (videoContent && !videoContainer.hasChildNodes()) {
+                        videoContainer.innerHTML = videoContent;
+                        if (window.TikTok) {
+                            window.TikTok.reload();
+                        }
+                    }
+                });
 
                 weekContent.innerHTML += `<div class="tab-pane fade show ${activeClass}" id="content-${index}">
                     <h3 class="text-center">${groupMuscle}</h3>

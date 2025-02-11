@@ -1,41 +1,100 @@
 {
     "Segunda-feira": [
-        { "nome": "Supino reto com halteres", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s", "grupoMuscular": "Peito", "video": "https://www.youtube.com/embed/v9DQH1VuVjo" },
-        { "nome": "Desenvolvimento com halteres", "series": "3x", "repeticoes": "8-12", "descanso": "60s", "grupoMuscular": "Ombros", "video": "https://www.youtube.com/embed/Y2yV_f0ohck" },
-        { "nome": "Elevação lateral", "series": "3x", "repeticoes": "12-15", "descanso": "60s", "grupoMuscular": "Ombros", "video": "https://www.youtube.com/embed/2vxo4hNm1s4" },
-        { "nome": "Tríceps francês com halter", "series": "3x", "repeticoes": "10-12", "descanso": "60s", "grupoMuscular": "Tríceps", "video": "https://www.youtube.com/embed/K1sLfpMMhmg" },
-        { "nome": "Paralelas ou supino fechado", "series": "3x", "repeticoes": "8-12", "descanso": "60s", "grupoMuscular": "Tríceps", "video": "https://www.youtube.com/embed/2W7-Qof4S9Q" }
+        { "nome": "Supino reto com halteres", "series": "4x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Peito", 
+            
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Desenvolvimento com halteres", "series": "3x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Ombros", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Elevação lateral", "series": "3x", "repeticoes": "12-15", "descanso": "60", "grupoMuscular": "Ombros", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Tríceps francês com halter", "series": "3x", "repeticoes": "10-12", "descanso": "60", "grupoMuscular": "Tríceps", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Paralelas ou supino fechado", "series": "3x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Tríceps", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        }
     ],
     "Terça-feira": [
-        { "nome": "Puxada alta na polia", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s", "grupoMuscular": "Costas", "video": "https://www.youtube.com/embed/Kmnkxx_ufy0" },
-        { "nome": "Remada curvada com halteres ou barra", "series": "3x", "repeticoes": "8-12", "descanso": "60s", "grupoMuscular": "Costas", "video": "https://www.youtube.com/embed/jtL6du_TT78" },
-        { "nome": "Pulldown na polia", "series": "3x", "repeticoes": "12-15", "descanso": "60s", "grupoMuscular": "Costas", "video": "https://www.youtube.com/embed/B87v1qOZK1A" },
-        { "nome": "Rosca direta com halteres ou barra EZ", "series": "3x", "repeticoes": "10-12", "descanso": "60s", "grupoMuscular": "Bíceps", "video": "https://www.youtube.com/embed/JxdSO0iy1pw" },
-        { "nome": "Rosca martelo", "series": "3x", "repeticoes": "10-12", "descanso": "60s", "grupoMuscular": "Bíceps", "video": "https://www.youtube.com/embed/Bqld1aRrdK0" }
+        { "nome": "Puxada alta na polia", "series": "4x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Costas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Remada curvada com halteres ou barra", "series": "3x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Costas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Pulldown na polia", "series": "3x", "repeticoes": "12-15", "descanso": "60", "grupoMuscular": "Costas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Rosca direta com halteres ou barra EZ", "series": "3x", "repeticoes": "10-12", "descanso": "60", "grupoMuscular": "Bíceps", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Rosca martelo", "series": "3x", "repeticoes": "10-12", "descanso": "60", "grupoMuscular": "Bíceps", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        }
     ],
     "Quarta-feira": [
-        { "nome": "Agachamento livre ou no Smith", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s", "grupoMuscular": "Pernas", "video": "https://www.youtube.com/embed/Nw9sLcl6EGo" },
-        { "nome": "Leg press 45°", "series": "3x", "repeticoes": "10-12", "descanso": "60s", "grupoMuscular": "Pernas", "video": "https://www.youtube.com/embed/RUe6lURx-88" },
-        { "nome": "Cadeira extensora", "series": "3x", "repeticoes": "12-15", "descanso": "60s", "grupoMuscular": "Pernas", "video": "https://www.youtube.com/embed/gRpgo1tANh0" },
-        { "nome": "Mesa flexora", "series": "3x", "repeticoes": "12-15", "descanso": "60s", "grupoMuscular": "Pernas", "video": "https://www.youtube.com/embed/d5TZQsGZy7s" },
-        { "nome": "Panturrilha no leg press ou em pé", "series": "4x", "repeticoes": "15-20", "descanso": "60s", "grupoMuscular": "Panturrilhas", "video": "https://www.youtube.com/embed/gDgPRRA-hm4" },
-        { "nome": "Abdominal infra na barra ou banco declinado", "series": "3x", "repeticoes": "12-15", "descanso": "60s", "grupoMuscular": "Abdominais", "video": "https://www.youtube.com/embed/XBbRs3JBoA4" },
-        { "nome": "Prancha abdominal", "series": "3x", "repeticoes": "30-60s", "descanso": "60s", "grupoMuscular": "Abdominais", "video": "https://www.youtube.com/embed/1Z4y6XI0a1k" }
+        { "nome": "Agachamento livre ou no Smith", "series": "4x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Pernas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Leg press 45°", "series": "3x", "repeticoes": "10-12", "descanso": "60", "grupoMuscular": "Pernas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Cadeira extensora", "series": "3x", "repeticoes": "12-15", "descanso": "60", "grupoMuscular": "Pernas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Mesa flexora", "series": "3x", "repeticoes": "12-15", "descanso": "60", "grupoMuscular": "Pernas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Panturrilha no leg press ou em pé", "series": "4x", "repeticoes": "15-20", "descanso": "60", "grupoMuscular": "Panturrilhas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Abdominal infra na barra ou banco declinado", "series": "3x", "repeticoes": "12-15", "descanso": "60", "grupoMuscular": "Abdominais", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Prancha abdominal", "series": "3x", "repeticoes": "30-60", "descanso": "60", "grupoMuscular": "Abdominais", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        }
     ],
     "Quinta-feira": [
-        { "nome": "Supino inclinado com halteres", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s", "grupoMuscular": "Peito", "video": "https://www.youtube.com/embed/t2tKk8wQemA" },
-        { "nome": "Desenvolvimento Arnold", "series": "3x", "repeticoes": "8-12", "descanso": "60s", "grupoMuscular": "Ombros", "video": "https://www.youtube.com/embed/MpBCeP2oyyI" },
-        { "nome": "Crucifixo com halteres", "series": "3x", "repeticoes": "12-15", "descanso": "60s", "grupoMuscular": "Peito", "video": "https://www.youtube.com/embed/2ok77nzw57Q" },
-        { "nome": "Tríceps corda na polia", "series": "3x", "repeticoes": "10-12", "descanso": "60s", "grupoMuscular": "Tríceps", "video": "https://www.youtube.com/embed/QVmvwDQ-33I" },
-        { "nome": "Mergulho em banco (tríceps)", "series": "3x", "repeticoes": "10-12", "descanso": "60s", "grupoMuscular": "Tríceps", "video": "https://www.youtube.com/embed/U_iAhWe99vE" }
+        { "nome": "Supino inclinado com halteres", "series": "4x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Peito", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Desenvolvimento Arnold", "series": "3x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Ombros", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Crucifixo com halteres", "series": "3x", "repeticoes": "12-15", "descanso": "60", "grupoMuscular": "Peito", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Tríceps corda na polia", "series": "3x", "repeticoes": "10-12", "descanso": "60", "grupoMuscular": "Tríceps", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Mergulho em banco (tríceps)", "series": "3x", "repeticoes": "10-12", "descanso": "60", "grupoMuscular": "Tríceps", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        }
     ],
     "Sexta-feira": [
-        { "nome": "Barra fixa ou puxada na polia", "series": "4x", "repeticoes": "8-12", "descanso": "60-90s", "grupoMuscular": "Costas", "video": "https://www.youtube.com/embed/nLCvFEgYyL0" },
-        { "nome": "Remada unilateral com halteres", "series": "3x", "repeticoes": "8-12", "descanso": "60s", "grupoMuscular": "Costas", "video": "https://www.youtube.com/embed/Sjx8S_UY6yg" },
-        { "nome": "Pullover com halteres", "series": "3x", "repeticoes": "12-15", "descanso": "60s", "grupoMuscular": "Costas", "video": "https://www.youtube.com/embed/9JQfboO5BTY" },
-        { "nome": "Rosca alternada com halteres", "series": "3x", "repeticoes": "10-12", "descanso": "60s", "grupoMuscular": "Bíceps", "video": "https://www.youtube.com/embed/Sg7-hkpXXkY" },
-        { "nome": "Rosca concentrada", "series": "3x", "repeticoes": "10-12", "descanso": "60s", "grupoMuscular": "Bíceps", "video": "https://www.youtube.com/embed/MUpgJbFCNxg" },
-        { "nome": "Abdominal na polia", "series": "3x", "repeticoes": "12-15", "descanso": "60s", "grupoMuscular": "Abdominais", "video": "https://www.youtube.com/embed/FgALkFcBp_8" },
-        { "nome": "Prancha lateral", "series": "3x", "repeticoes": "30-45s", "descanso": "60s", "grupoMuscular": "Abdominais", "video": "https://www.youtube.com/embed/oaVfwEapvwM" }
+        { "nome": "Barra fixa ou puxada na polia", "series": "4x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Costas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Remada unilateral com halteres", "series": "3x", "repeticoes": "8-12", "descanso": "60", "grupoMuscular": "Costas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Pullover com halteres", "series": "3x", "repeticoes": "12-15", "descanso": "60", "grupoMuscular": "Costas", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Rosca alternada com halteres", "series": "3x", "repeticoes": "10-12", "descanso": "60", "grupoMuscular": "Bíceps", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Rosca concentrada", "series": "3x", "repeticoes": "10-12", "descanso": "60", "grupoMuscular": "Bíceps", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Abdominal na polia", "series": "3x", "repeticoes": "12-15", "descanso": "60", "grupoMuscular": "Abdominais", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        },
+        { "nome": "Prancha lateral", "series": "3x", "repeticoes": "30-45s", "descanso": "60", "grupoMuscular": "Abdominais", 
+            "video": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@akiseconstroifibras/video/7236117238334475526' data-video-id='7236117238334475526'><section><a target='_blank' title='@akiseconstroifibras' href='https://www.tiktok.com/@akiseconstroifibras'>@akiseconstroifibras</a></section></blockquote><script async src='https://www.tiktok.com/embed.js'></script>" 
+        }
     ]
 }
