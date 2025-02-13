@@ -10,6 +10,7 @@
     align-items: center;
     gap: 10px;
     flex-wrap: wrap;
+    z-index: 1;
 }
 
 .footer-timer h4 {
@@ -20,4 +21,8 @@
 .footer-timer button {
     padding: 5px 15px;
     font-size: 1rem;
+}
+
+body {
+    margin-bottom: 60px; /* Ajuste este valor de acordo com a altura do seu footer */
 }
