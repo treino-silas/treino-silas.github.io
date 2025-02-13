@@ -1,0 +1,23 @@
+.footer-timer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.footer-timer h4 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.footer-timer button {
+    padding: 5px 15px;
+    font-size: 1rem;
+}

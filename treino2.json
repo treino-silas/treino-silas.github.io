@@ -1,0 +1,279 @@
+{
+    "Segunda-feira": {
+      "grupo_muscular": "Peito, Ombro e Tríceps",
+      "exercicios": [
+        {
+          "nome": "Supino reto com halteres",
+          "nomeEn": "Dumbbell Bench Press",
+          "series": "4x",
+          "repeticoes": "8-12",
+          "descanso": "60",
+          "grupoMuscular": "Peito",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/dumbbell-bench-press.gif"
+        },
+        {
+          "nome": "Desenvolvimento militar com halteres",
+          "nomeEn": "Dumbbell Shoulder Press",
+          "series": "3x",
+          "repeticoes": "8-12",
+          "descanso": "60",
+          "grupoMuscular": "Ombro",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/dumbbell-shoulder-press.gif"
+        },
+        {
+          "nome": "Mergulho nas paralelas",
+          "nomeEn": "Dips",
+          "series": "3x",
+          "repeticoes": "8-12",
+          "descanso": "60",
+          "grupoMuscular": "Tríceps",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/dips.gif"
+        },
+        {
+          "nome": "Elevação lateral com halteres",
+          "nomeEn": "Lateral Raise",
+          "series": "3x",
+          "repeticoes": "12-15",
+          "descanso": "45",
+          "grupoMuscular": "Ombro",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/lateral-raise.gif"
+        },
+        {
+          "nome": "Tríceps testa com halteres",
+          "nomeEn": "Dumbbell Skull Crushers",
+          "series": "3x",
+          "repeticoes": "10-12",
+          "descanso": "45",
+          "grupoMuscular": "Tríceps",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/skull-crushers.gif"
+        }
+      ]
+    },
+    "Terça-feira": {
+      "grupo_muscular": "Pernas e Abdômen",
+      "exercicios": [
+        {
+          "nome": "Agachamento livre",
+          "nomeEn": "Barbell Squat",
+          "series": "4x",
+          "repeticoes": "8-12",
+          "descanso": "60",
+          "grupoMuscular": "Pernas",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/barbell-squat.gif"
+        },
+        {
+          "nome": "Afundo com halteres",
+          "nomeEn": "Dumbbell Lunges",
+          "series": "3x",
+          "repeticoes": "10-12 cada perna",
+          "descanso": "60",
+          "grupoMuscular": "Pernas",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/lunges.gif"
+        },
+        {
+          "nome": "Levantamento terra romeno",
+          "nomeEn": "Romanian Deadlift",
+          "series": "3x",
+          "repeticoes": "10-12",
+          "descanso": "60",
+          "grupoMuscular": "Posterior de Coxa",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/romanian-deadlift.gif"
+        },
+        {
+          "nome": "Panturrilha em pé",
+          "nomeEn": "Standing Calf Raise",
+          "series": "3x",
+          "repeticoes": "15-20",
+          "descanso": "45",
+          "grupoMuscular": "Panturrilha",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/calf-raise.gif"
+        },
+        {
+          "nome": "Elevação de pernas pendurado",
+          "nomeEn": "Hanging Leg Raise",
+          "series": "3x",
+          "repeticoes": "12-15",
+          "descanso": "45",
+          "grupoMuscular": "Abdômen",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/hanging-leg-raise.gif"
+        },
+        {
+          "nome": "Prancha isométrica",
+          "nomeEn": "Plank",
+          "series": "3x",
+          "repeticoes": "30-60s",
+          "descanso": "30",
+          "grupoMuscular": "Core",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/plank.gif"
+        }
+      ]
+    },
+    "Quarta-feira": {
+      "grupo_muscular": "Costas e Bíceps",
+      "exercicios": [
+        {
+          "nome": "Barra fixa",
+          "nomeEn": "Pull-Up",
+          "series": "4x",
+          "repeticoes": "até a falha",
+          "descanso": "60",
+          "grupoMuscular": "Costas",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/pull-up.gif"
+        },
+        {
+          "nome": "Remada curvada com barra",
+          "nomeEn": "Bent Over Row",
+          "series": "3x",
+          "repeticoes": "8-12",
+          "descanso": "60",
+          "grupoMuscular": "Costas",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/bent-over-row.gif"
+        },
+        {
+          "nome": "Levantamento terra",
+          "nomeEn": "Deadlift",
+          "series": "3x",
+          "repeticoes": "6-8",
+          "descanso": "90",
+          "grupoMuscular": "Costas",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/deadlift.gif"
+        },
+        {
+          "nome": "Face Pull com corda",
+          "nomeEn": "Face Pull",
+          "series": "3x",
+          "repeticoes": "12-15",
+          "descanso": "45",
+          "grupoMuscular": "Ombro Posterior",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/face-pull.gif"
+        },
+        {
+          "nome": "Rosca direta com halteres",
+          "nomeEn": "Dumbbell Bicep Curl",
+          "series": "3x",
+          "repeticoes": "10-12",
+          "descanso": "45",
+          "grupoMuscular": "Bíceps",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/bicep-curl.gif"
+        }
+      ]
+    },
+    "Quinta-feira": {
+      "grupo_muscular": "Pernas e Abdômen",
+      "exercicios": [
+        {
+          "nome": "Agachamento búlgaro com halteres",
+          "nomeEn": "Bulgarian Split Squat",
+          "series": "3x",
+          "repeticoes": "10-12 cada perna",
+          "descanso": "60",
+          "grupoMuscular": "Pernas",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/bulgarian-split-squat.gif"
+        },
+        {
+          "nome": "Avanço com halteres",
+          "nomeEn": "Walking Lunges",
+          "series": "3x",
+          "repeticoes": "12-15 cada perna",
+          "descanso": "60",
+          "grupoMuscular": "Pernas",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/walking-lunges.gif"
+        },
+        {
+          "nome": "Levantamento terra sumô",
+          "nomeEn": "Sumo Deadlift",
+          "series": "3x",
+          "repeticoes": "8-10",
+          "descanso": "60",
+          "grupoMuscular": "Posterior de Coxa e Glúteos",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/sumo-deadlift.gif"
+        },
+        {
+          "nome": "Panturrilha sentado com halteres",
+          "nomeEn": "Seated Calf Raise",
+          "series": "3x",
+          "repeticoes": "15-20",
+          "descanso": "45",
+          "grupoMuscular": "Panturrilha",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/seated-calf-raise.gif"
+        },
+        {
+          "nome": "Abdominal infra no solo",
+          "nomeEn": "Reverse Crunch",
+          "series": "3x",
+          "repeticoes": "15-20",
+          "descanso": "45",
+          "grupoMuscular": "Abdômen",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/reverse-crunch.gif"
+        },
+        {
+          "nome": "Prancha lateral",
+          "nomeEn": "Side Plank",
+          "series": "3x",
+          "repeticoes": "30-45s cada lado",
+          "descanso": "30",
+          "grupoMuscular": "Core",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/side-plank.gif"
+        }
+      ]
+    },
+    "Sexta-feira": {
+      "grupo_muscular": "Peito, Ombro e Braços",
+      "exercicios": [
+        {
+          "nome": "Flexão de braços",
+          "nomeEn": "Push-Ups",
+          "series": "4x",
+          "repeticoes": "até a falha",
+          "descanso": "60",
+          "grupoMuscular": "Peito e Tríceps",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/push-ups.gif"
+        },
+        {
+          "nome": "Desenvolvimento Arnold com halteres",
+          "nomeEn": "Arnold Press",
+          "series": "3x",
+          "repeticoes": "10-12",
+          "descanso": "60",
+          "grupoMuscular": "Ombro",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/arnold-press.gif"
+        },
+        {
+          "nome": "Paralelas com peso",
+          "nomeEn": "Weighted Dips",
+          "series": "3x",
+          "repeticoes": "8-12",
+          "descanso": "60",
+          "grupoMuscular": "Tríceps",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/dips.gif"
+        },
+        {
+          "nome": "Rosca martelo com halteres",
+          "nomeEn": "Hammer Curl",
+          "series": "3x",
+          "repeticoes": "10-12",
+          "descanso": "45",
+          "grupoMuscular": "Bíceps",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/hammer-curl.gif"
+        },
+        {
+          "nome": "Elevação frontal com halteres",
+          "nomeEn": "Front Raise",
+          "series": "3x",
+          "repeticoes": "12-15",
+          "descanso": "45",
+          "grupoMuscular": "Ombro",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/front-raise.gif"
+        },
+        {
+          "nome": "Tríceps francês unilateral",
+          "nomeEn": "One Arm Overhead Triceps Extension",
+          "series": "3x",
+          "repeticoes": "10-12",
+          "descanso": "45",
+          "grupoMuscular": "Tríceps",
+          "video": "https://www.hipertrofia.org/blog/wp-content/uploads/", "image": "2020/06/overhead-triceps-extension.gif"
+        }
+      ]
+    }
+  }
